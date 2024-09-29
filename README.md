@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdelrhman997
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning HTML , CSS , JS
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Linkedin profile https://www.linkedin.com/in/abdelrhman-gharieb-a66201142/
 
